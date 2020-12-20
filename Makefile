@@ -1,2 +1,2 @@
 compile:
-	gcc -Wall -lncurses -o sbc sbc.c
+	gcc -Wall -lncurses -o sbsc sbsc.c
